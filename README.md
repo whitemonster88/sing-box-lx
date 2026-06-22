@@ -1,3 +1,5 @@
+# Fork, in case retard chink wants to ban the main fork
+
 **English** · [Русский](README.ru.md)
 
 # sing-box-lx
